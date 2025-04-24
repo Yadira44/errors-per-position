@@ -8,3 +8,7 @@ Part 3.1 finds the total amount of errors each position amounts to in the years 
 
 ## Part 3.2
 Part 3.2 figures out the total amount of errors that lead to runs by each position.
+
+### Raw Data:
+I used CSV downloads from Retrosheet to gather my data for this project.
+https://www.retrosheet.org/downloads/othercsvs.html
